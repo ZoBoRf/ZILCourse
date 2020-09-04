@@ -1,7 +1,7 @@
 # ZIL
 #### A "ZIL Course" by Marc S. Blank (October 1982)
 
-This is a transcription of the original Infocom document `zil-course.fsf`
+This is a transcription of the original Infocom document `zil-course.fwf`
 found on the legendary [PAX USB Drive](http://www.ifwiki.org/index.php/PAX_USB_Drive).
 
 The PDF version `ZILCourse.pdf` is exported from **LyX** as PDF (XeTeX).
